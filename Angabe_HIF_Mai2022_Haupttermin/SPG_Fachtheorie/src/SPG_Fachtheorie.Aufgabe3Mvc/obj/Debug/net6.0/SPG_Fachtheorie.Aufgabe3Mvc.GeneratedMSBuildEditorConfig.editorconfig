@@ -1,0 +1,60 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = SPG_Fachtheorie.Aufgabe3Mvc
+build_property.RootNamespace = SPG_Fachtheorie.Aufgabe3Mvc
+build_property.ProjectDir = C:\HTL\Unterricht\SJ2223\5BHIF\Angabe_HIF_Mai2022_Haupttermin\SPG_Fachtheorie\src\SPG_Fachtheorie.Aufgabe3Mvc\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\HTL\Unterricht\SJ2223\5BHIF\Angabe_HIF_Mai2022_Haupttermin\SPG_Fachtheorie\src\SPG_Fachtheorie.Aufgabe3Mvc
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/HTL/Unterricht/SJ2223/5BHIF/Angabe_HIF_Mai2022_Haupttermin/SPG_Fachtheorie/src/SPG_Fachtheorie.Aufgabe3Mvc/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/HTL/Unterricht/SJ2223/5BHIF/Angabe_HIF_Mai2022_Haupttermin/SPG_Fachtheorie/src/SPG_Fachtheorie.Aufgabe3Mvc/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/HTL/Unterricht/SJ2223/5BHIF/Angabe_HIF_Mai2022_Haupttermin/SPG_Fachtheorie/src/SPG_Fachtheorie.Aufgabe3Mvc/Views/Konferenz/Beschluss.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS29uZmVyZW56XEJlc2NobHVzcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/HTL/Unterricht/SJ2223/5BHIF/Angabe_HIF_Mai2022_Haupttermin/SPG_Fachtheorie/src/SPG_Fachtheorie.Aufgabe3Mvc/Views/Konferenz/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS29uZmVyZW56XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/HTL/Unterricht/SJ2223/5BHIF/Angabe_HIF_Mai2022_Haupttermin/SPG_Fachtheorie/src/SPG_Fachtheorie.Aufgabe3Mvc/Views/Konferenz/Klasse.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS29uZmVyZW56XEtsYXNzZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/HTL/Unterricht/SJ2223/5BHIF/Angabe_HIF_Mai2022_Haupttermin/SPG_Fachtheorie/src/SPG_Fachtheorie.Aufgabe3Mvc/Views/Pruefung/Anmeldung.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJ1ZWZ1bmdcQW5tZWxkdW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/HTL/Unterricht/SJ2223/5BHIF/Angabe_HIF_Mai2022_Haupttermin/SPG_Fachtheorie/src/SPG_Fachtheorie.Aufgabe3Mvc/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/HTL/Unterricht/SJ2223/5BHIF/Angabe_HIF_Mai2022_Haupttermin/SPG_Fachtheorie/src/SPG_Fachtheorie.Aufgabe3Mvc/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/HTL/Unterricht/SJ2223/5BHIF/Angabe_HIF_Mai2022_Haupttermin/SPG_Fachtheorie/src/SPG_Fachtheorie.Aufgabe3Mvc/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/HTL/Unterricht/SJ2223/5BHIF/Angabe_HIF_Mai2022_Haupttermin/SPG_Fachtheorie/src/SPG_Fachtheorie.Aufgabe3Mvc/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/HTL/Unterricht/SJ2223/5BHIF/Angabe_HIF_Mai2022_Haupttermin/SPG_Fachtheorie/src/SPG_Fachtheorie.Aufgabe3Mvc/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-jbswcqx6ca

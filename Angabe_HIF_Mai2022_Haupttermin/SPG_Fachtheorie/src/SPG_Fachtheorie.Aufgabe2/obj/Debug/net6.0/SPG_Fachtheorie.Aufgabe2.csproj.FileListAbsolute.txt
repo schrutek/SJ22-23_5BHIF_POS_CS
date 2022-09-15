@@ -1,0 +1,12 @@
+C:\Scratch\Aufgabe2\Debug\net6.0\SPG_Fachtheorie.Aufgabe2.deps.json
+C:\Scratch\Aufgabe2\Debug\net6.0\SPG_Fachtheorie.Aufgabe2.dll
+C:\Scratch\Aufgabe2\Debug\net6.0\SPG_Fachtheorie.Aufgabe2.pdb
+C:\HTL\Schletz\Pos5xhif\Matura\Angabe_HIF_Mai2022_Haupttermin\SPG_Fachtheorie\src\SPG_Fachtheorie.Aufgabe2\obj\Debug\net6.0\SPG_Fachtheorie.Aufgabe2.csproj.AssemblyReference.cache
+C:\HTL\Schletz\Pos5xhif\Matura\Angabe_HIF_Mai2022_Haupttermin\SPG_Fachtheorie\src\SPG_Fachtheorie.Aufgabe2\obj\Debug\net6.0\SPG_Fachtheorie.Aufgabe2.GeneratedMSBuildEditorConfig.editorconfig
+C:\HTL\Schletz\Pos5xhif\Matura\Angabe_HIF_Mai2022_Haupttermin\SPG_Fachtheorie\src\SPG_Fachtheorie.Aufgabe2\obj\Debug\net6.0\SPG_Fachtheorie.Aufgabe2.AssemblyInfoInputs.cache
+C:\HTL\Schletz\Pos5xhif\Matura\Angabe_HIF_Mai2022_Haupttermin\SPG_Fachtheorie\src\SPG_Fachtheorie.Aufgabe2\obj\Debug\net6.0\SPG_Fachtheorie.Aufgabe2.AssemblyInfo.cs
+C:\HTL\Schletz\Pos5xhif\Matura\Angabe_HIF_Mai2022_Haupttermin\SPG_Fachtheorie\src\SPG_Fachtheorie.Aufgabe2\obj\Debug\net6.0\SPG_Fachtheorie.Aufgabe2.csproj.CoreCompileInputs.cache
+C:\HTL\Schletz\Pos5xhif\Matura\Angabe_HIF_Mai2022_Haupttermin\SPG_Fachtheorie\src\SPG_Fachtheorie.Aufgabe2\obj\Debug\net6.0\SPG_Fachtheorie.Aufgabe2.dll
+C:\HTL\Schletz\Pos5xhif\Matura\Angabe_HIF_Mai2022_Haupttermin\SPG_Fachtheorie\src\SPG_Fachtheorie.Aufgabe2\obj\Debug\net6.0\refint\SPG_Fachtheorie.Aufgabe2.dll
+C:\HTL\Schletz\Pos5xhif\Matura\Angabe_HIF_Mai2022_Haupttermin\SPG_Fachtheorie\src\SPG_Fachtheorie.Aufgabe2\obj\Debug\net6.0\SPG_Fachtheorie.Aufgabe2.pdb
+C:\HTL\Schletz\Pos5xhif\Matura\Angabe_HIF_Mai2022_Haupttermin\SPG_Fachtheorie\src\SPG_Fachtheorie.Aufgabe2\obj\Debug\net6.0\ref\SPG_Fachtheorie.Aufgabe2.dll
