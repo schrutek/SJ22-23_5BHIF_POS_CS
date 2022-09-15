@@ -24,8 +24,6 @@ namespace SPG_Fachtheorie.Aufgabe2
         public ClassStatistics GetClassStatistics(string @class)
         {
             // TODO: Implementiere deine Servicemethode
-            // Change 1
-            // Change 2
             throw new NotImplementedException();
         }
 
