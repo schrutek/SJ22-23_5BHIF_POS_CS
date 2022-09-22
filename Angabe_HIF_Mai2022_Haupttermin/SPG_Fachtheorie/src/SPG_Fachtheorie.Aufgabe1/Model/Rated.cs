@@ -1,6 +1,5 @@
 ﻿namespace SPG_Fachtheorie.Aufgabe1.Model
 {
-    public class Rated
-    {
-    }
+    public class Rated : ApplicantStatus
+    { }
 }

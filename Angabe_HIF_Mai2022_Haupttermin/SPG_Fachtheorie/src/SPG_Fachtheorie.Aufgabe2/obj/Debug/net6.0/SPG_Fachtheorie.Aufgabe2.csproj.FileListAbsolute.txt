@@ -10,3 +10,12 @@ C:\HTL\Schletz\Pos5xhif\Matura\Angabe_HIF_Mai2022_Haupttermin\SPG_Fachtheorie\sr
 C:\HTL\Schletz\Pos5xhif\Matura\Angabe_HIF_Mai2022_Haupttermin\SPG_Fachtheorie\src\SPG_Fachtheorie.Aufgabe2\obj\Debug\net6.0\refint\SPG_Fachtheorie.Aufgabe2.dll
 C:\HTL\Schletz\Pos5xhif\Matura\Angabe_HIF_Mai2022_Haupttermin\SPG_Fachtheorie\src\SPG_Fachtheorie.Aufgabe2\obj\Debug\net6.0\SPG_Fachtheorie.Aufgabe2.pdb
 C:\HTL\Schletz\Pos5xhif\Matura\Angabe_HIF_Mai2022_Haupttermin\SPG_Fachtheorie\src\SPG_Fachtheorie.Aufgabe2\obj\Debug\net6.0\ref\SPG_Fachtheorie.Aufgabe2.dll
+C:\HTL\Unterricht\SJ2223\5BHIF\SJ22-23_5BHIF_POS_CS\Angabe_HIF_Mai2022_Haupttermin\SPG_Fachtheorie\src\SPG_Fachtheorie.Aufgabe2\obj\Debug\net6.0\SPG_Fachtheorie.Aufgabe2.csproj.AssemblyReference.cache
+C:\HTL\Unterricht\SJ2223\5BHIF\SJ22-23_5BHIF_POS_CS\Angabe_HIF_Mai2022_Haupttermin\SPG_Fachtheorie\src\SPG_Fachtheorie.Aufgabe2\obj\Debug\net6.0\SPG_Fachtheorie.Aufgabe2.GeneratedMSBuildEditorConfig.editorconfig
+C:\HTL\Unterricht\SJ2223\5BHIF\SJ22-23_5BHIF_POS_CS\Angabe_HIF_Mai2022_Haupttermin\SPG_Fachtheorie\src\SPG_Fachtheorie.Aufgabe2\obj\Debug\net6.0\SPG_Fachtheorie.Aufgabe2.AssemblyInfoInputs.cache
+C:\HTL\Unterricht\SJ2223\5BHIF\SJ22-23_5BHIF_POS_CS\Angabe_HIF_Mai2022_Haupttermin\SPG_Fachtheorie\src\SPG_Fachtheorie.Aufgabe2\obj\Debug\net6.0\SPG_Fachtheorie.Aufgabe2.AssemblyInfo.cs
+C:\HTL\Unterricht\SJ2223\5BHIF\SJ22-23_5BHIF_POS_CS\Angabe_HIF_Mai2022_Haupttermin\SPG_Fachtheorie\src\SPG_Fachtheorie.Aufgabe2\obj\Debug\net6.0\SPG_Fachtheorie.Aufgabe2.csproj.CoreCompileInputs.cache
+C:\HTL\Unterricht\SJ2223\5BHIF\SJ22-23_5BHIF_POS_CS\Angabe_HIF_Mai2022_Haupttermin\SPG_Fachtheorie\src\SPG_Fachtheorie.Aufgabe2\obj\Debug\net6.0\SPG_Fachtheorie.Aufgabe2.dll
+C:\HTL\Unterricht\SJ2223\5BHIF\SJ22-23_5BHIF_POS_CS\Angabe_HIF_Mai2022_Haupttermin\SPG_Fachtheorie\src\SPG_Fachtheorie.Aufgabe2\obj\Debug\net6.0\refint\SPG_Fachtheorie.Aufgabe2.dll
+C:\HTL\Unterricht\SJ2223\5BHIF\SJ22-23_5BHIF_POS_CS\Angabe_HIF_Mai2022_Haupttermin\SPG_Fachtheorie\src\SPG_Fachtheorie.Aufgabe2\obj\Debug\net6.0\SPG_Fachtheorie.Aufgabe2.pdb
+C:\HTL\Unterricht\SJ2223\5BHIF\SJ22-23_5BHIF_POS_CS\Angabe_HIF_Mai2022_Haupttermin\SPG_Fachtheorie\src\SPG_Fachtheorie.Aufgabe2\obj\Debug\net6.0\ref\SPG_Fachtheorie.Aufgabe2.dll

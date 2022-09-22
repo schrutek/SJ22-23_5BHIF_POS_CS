@@ -1,0 +1,49 @@
+/* _content/SPG_Fachtheorie.Aufgabe3RazorPages/Pages/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-vv6zvjyoqo] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-vv6zvjyoqo] {
+  color: #0077cc;
+}
+
+.btn-primary[b-vv6zvjyoqo] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-vv6zvjyoqo], .nav-pills .show > .nav-link[b-vv6zvjyoqo] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-vv6zvjyoqo] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-vv6zvjyoqo] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-vv6zvjyoqo] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-vv6zvjyoqo] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-vv6zvjyoqo] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}

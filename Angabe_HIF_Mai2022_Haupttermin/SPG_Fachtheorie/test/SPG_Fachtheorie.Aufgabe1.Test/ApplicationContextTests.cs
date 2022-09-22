@@ -1,6 +1,7 @@
 using Xunit;
 using Microsoft.EntityFrameworkCore;
 using System;
+using SPG_Fachtheorie.Aufgabe1.Model;
 
 namespace SPG_Fachtheorie.Aufgabe1.Test;
 
@@ -38,8 +39,23 @@ public class ApplicationContextTests
     [Fact]
     public void AddDepartmentSuccessTest()
     {
+        // Arrange
         using var db = GetContext();
-        throw new NotImplementedException();
+        Department department = new Department()
+        {
+            Name = "KD"
+        };
+        Department department2 = new Department()
+        {
+            Name = "HIF"
+        };
+        // Act
+        db.Add(department);
+        db.Add(department2);
+        int actual = db.SaveChanges();
+
+        // Assert
+        Assert.Equal(2, actual);
     }
     [Fact]
     public void AddTaskSuccessTest()
