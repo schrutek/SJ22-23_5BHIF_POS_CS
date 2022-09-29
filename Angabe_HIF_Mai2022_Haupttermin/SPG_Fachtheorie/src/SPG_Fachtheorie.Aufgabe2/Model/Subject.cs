@@ -2,7 +2,7 @@
 {
     public class Subject
     {
-        public string Shortname { get; set; }
-        public string Longmame { get; set; }
+        public string ShortName { get; set; }
+        public string LongName { get; set; }
     }
 }

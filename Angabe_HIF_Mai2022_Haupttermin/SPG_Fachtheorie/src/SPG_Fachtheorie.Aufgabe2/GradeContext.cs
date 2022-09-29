@@ -60,11 +60,11 @@ namespace SPG_Fachtheorie.Aufgabe2
 
             var subjects = new Subject[]
             {
-                new Subject{Shortname = "POS", Longmame = "Programmieren" },
-                new Subject{Shortname = "DBI", Longmame = "Datenbanken" },
-                new Subject{Shortname = "D", Longmame = "Deutsch" },
-                new Subject{Shortname = "E", Longmame = "Englisch" },
-                new Subject{Shortname = "AM", Longmame = "Angewandte Mathematik" }
+                new Subject{ShortName = "POS", LongName = "Programmieren" },
+                new Subject{ShortName = "DBI", LongName = "Datenbanken" },
+                new Subject{ShortName = "D", LongName = "Deutsch" },
+                new Subject{ShortName = "E", LongName = "Englisch" },
+                new Subject{ShortName = "AM", LongName = "Angewandte Mathematik" }
             };
 
             // Für jeden Gegenstand und jede Klasse eine Lesson mit zufälligem
@@ -78,7 +78,7 @@ namespace SPG_Fachtheorie.Aufgabe2
                     {
                         Class = c,
                         ClassId = c.Id,
-                        Subject = new Subject { Shortname = s.Shortname, Longmame = s.Longmame },
+                        Subject = new Subject { ShortName = s.ShortName, LongName = s.LongName },
                         Teacher = teacher,
                         TeacherId = teacher.Id
                     });
